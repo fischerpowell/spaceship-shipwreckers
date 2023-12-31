@@ -1,0 +1,1 @@
+.\game\pythonw.exe -OO .\game\app\main.py
